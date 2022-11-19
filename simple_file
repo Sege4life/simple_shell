@@ -1,5 +1,0 @@
-#include "shell.h"
-
-/**
-* interactive - return true if shellis in interactive mode
-
